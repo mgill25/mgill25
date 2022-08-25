@@ -1,11 +1,14 @@
 ### Hello
 
-My name is Manish. You can pronounce it as _Mun_ (like the Sun) + eesh.
-
-I like to build large scale distributed systems that are reliable and resilient.
+- 👋 Hi, I’m Manish Gill aka `@mgill25`. You can pronounce it as _Mun_ (like the Sun) + eesh.
+- 👀 I’m interested in Team building, Large-Scale Data Systems, Resiliency, Machine Learning.
+- 🌱 I’m currently learning Systems Programming via Rust/Zig/C++. I like reading about Storage systems and Consensus algorithms
+- 💞️ I’m looking to collaborate on everything related to Data, Systems programming.
+- 📫 Reach me via email: `me [at] firstnamelastname [dot] com`
 
 At my day job, I work at TomTom in Berlin. I write Scala and Python. I've also done professional Java, Go, Lua, Javascript and a lot of Python. 
 
-I also have a special love for SQL and enjoy working with data storage systems - DBMS, caches, logs, message queues, warehouses and data lakes.
-
-In my own time, I write Rust and Zig.
+<!---
+gilltr/gilltr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
