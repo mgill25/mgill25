@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on everything related to Data, Systems programming.
 - 📫 Reach me via email: `me [at] firstnamelastname [dot] com`
 
-I currently work at ClickHouse.
+I currently work at [ClickHouse](https://clickhouse.com).
 
 Previously, I work at TomTom in Berlin. I wrote Scala and Python. I've also done professional Java, Go, SQL, Python, Lua and JavaScript.
 
