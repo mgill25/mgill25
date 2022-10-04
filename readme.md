@@ -8,7 +8,7 @@
 
 I currently work at [ClickHouse](https://clickhouse.com).
 
-Previously, I work at TomTom in Berlin. I wrote Scala and Python. I've also done professional Java, Go, SQL, Python, Lua and JavaScript.
+Previously, I worked at TomTom in Berlin. I wrote Scala and Python. I've also done professional Java, Go, SQL, Python, Lua and JavaScript.
 
 <!---
 mgill25/mgill25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
