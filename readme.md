@@ -4,7 +4,7 @@
 - 👀 I’m interested in Team building, Large-Scale Data Systems, Resiliency, Machine Learning.
 - 🌱 I’m currently learning Systems Programming via Rust/Zig/C++. I like Databases, Compilers and Consensus algorithms
 - 🚀 I’m looking to collaborate on everything related to Data, Systems programming.
-- - 🐦 You can find me on <a rel="me" href="https://fosstodon.org/@manish">Mastodon</a>
+- 🐦 You can find me on <a rel="me" href="https://fosstodon.org/@manish">Mastodon</a>
 - 📫 Reach me via email: `me [at] firstnamelastname [dot] com`
 
 
